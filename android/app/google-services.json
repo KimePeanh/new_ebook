@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "964732538523",
+    "firebase_url": "https://newonecam-53e7c-default-rtdb.firebaseio.com",
+    "project_id": "newonecam-53e7c",
+    "storage_bucket": "newonecam-53e7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964732538523:android:1e48e61be82e0f7bb4c03e",
+        "android_client_info": {
+          "package_name": "com.OneNext.onecam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964732538523-gnb5h3irfhjfcd4tkka86ktptt182msf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.OneNext.onecam",
+            "certificate_hash": "a1c3ae7d9ebec41efaafd1652c175cc9b1d9d146"
+          }
+        },
+        {
+          "client_id": "964732538523-s9t16jj3vuhrjfmt58m1p1afks9uqa0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.OneNext.onecam",
+            "certificate_hash": "78d0d4ced2c7794ee1a79d901117008c3628e640"
+          }
+        },
+        {
+          "client_id": "964732538523-tf363t6tvjq64bllppbrlisqk8tstoeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABC7Z-chSiSC5Ml9_TgagrxDScPLCFYDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964732538523-tf363t6tvjq64bllppbrlisqk8tstoeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964732538523:android:ec3c1d4a8ca1c49eb4c03e",
+        "android_client_info": {
+          "package_name": "com.example.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964732538523-tf363t6tvjq64bllppbrlisqk8tstoeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABC7Z-chSiSC5Ml9_TgagrxDScPLCFYDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964732538523-tf363t6tvjq64bllppbrlisqk8tstoeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964732538523:android:1279b18cacb146f7b4c03e",
+        "android_client_info": {
+          "package_name": "com.example.onecamxonenext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964732538523-a7ib329knvfhc8hb4755canostd2ulro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onecamxonenext",
+            "certificate_hash": "78d0d4ced2c7794ee1a79d901117008c3628e640"
+          }
+        },
+        {
+          "client_id": "964732538523-tf363t6tvjq64bllppbrlisqk8tstoeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABC7Z-chSiSC5Ml9_TgagrxDScPLCFYDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964732538523-tf363t6tvjq64bllppbrlisqk8tstoeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964732538523:android:40df595cf430629fb4c03e",
+        "android_client_info": {
+          "package_name": "com.onenext.onecam_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964732538523-v89j307i8bgugmp9rq0b6oitmmo97auk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onenext.onecam_admin",
+            "certificate_hash": "a1c3ae7d9ebec41efaafd1652c175cc9b1d9d146"
+          }
+        },
+        {
+          "client_id": "964732538523-tf363t6tvjq64bllppbrlisqk8tstoeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABC7Z-chSiSC5Ml9_TgagrxDScPLCFYDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964732538523-tf363t6tvjq64bllppbrlisqk8tstoeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
