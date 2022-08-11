@@ -66,7 +66,7 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
         child: Column(
           children: [
             Expanded(
-              flex: 12,
+              flex: 13,
               child: Container(
                 child: SingleChildScrollView(
                   child: Center(
@@ -331,14 +331,16 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
             ),
             Expanded(
               child: Container(
+                color: white,
                 alignment: Alignment.center,
                 width: width,
                 padding: EdgeInsets.only(left: 20),
-                height: 50,
+                // height: 50,
                 child: Row(
                   children: [
                     Expanded(
                         child: Container(
+                          color: white,
                       // margin: EdgeInsets.all(15),
                       alignment: Alignment.centerLeft,
                       child: Column(

@@ -48,6 +48,9 @@ dependencies:
   flutter_bloc: ^7.1.0
   equatable: ^2.0.3
   image_picker: ^0.8.3+2
+  google_maps_flutter: ^2.0.0
+  geolocator: ^7.1.1
+  geocoding: ^2.0.0
   # pinput: ^2.1.4
 
 

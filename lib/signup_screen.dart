@@ -45,6 +45,7 @@ class _SignupScreenState extends State<SignupScreen> {
               'password': password,
               'uid': credential.user!.uid,
               'address': "",
+              'phonenumber':"",
               'url':
                   'https://firebasestorage.googleapis.com/v0/b/newonecam-53e7c.appspot.com/o/user%20(1).png?alt=media&token=c4dafa52-3e22-4514-9482-874bd4dde42d',
             })

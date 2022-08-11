@@ -2,6 +2,7 @@ import 'package:badges/badges.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:ebook/app_con.dart';
 import 'package:ebook/home_screen.dart';
+import 'package:ebook/search_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -33,7 +34,7 @@ class _BottomNavigatorState extends State<BottomNavigator> {
   List<Widget> _buildScreens() {
     return [
       HomeScreen(),
-      Container(),
+      SearchScreen(),
       CartScreen(),
       Container(),
       AccountScreen(),

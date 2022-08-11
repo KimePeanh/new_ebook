@@ -54,7 +54,7 @@ class PaymentType extends StatelessWidget {
                 },
                 child: Container(
                   padding: EdgeInsets.symmetric(vertical: 10),
-                  child: Column(
+                  child: Column(    
                     children: [
                       Row(
                         children: [
